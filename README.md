@@ -1,8 +1,12 @@
-# servidorDHCP
-Servidor Linux - DHCP 
+# Servidor DHCP
+Instalando e configurando o Servidor DHCP no Ubuntu Server. 
 
-# titulo1
-## título2
+## Atualizando pacotes
+
+## Instalando o servidor DHCP
+
+## Configurando o arquivo dhcp.conf
+
 ### título3
 
 Tamanho normal

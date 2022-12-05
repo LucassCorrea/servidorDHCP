@@ -1,5 +1,5 @@
 # Servidor DHCP
-Instalando e configurando o Servidor DHCP no Ubuntu Server. 
+Instalando e configurando o Servidor DHCP no Ubuntu Server 18.04. 
 
 
 ## Atualizando pacotes
